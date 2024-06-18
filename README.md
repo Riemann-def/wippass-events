@@ -25,7 +25,7 @@ Eventos Wippass is a subproject of the Wippass platform, a B2B2C online ticket s
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Riemann-def/wippass-events.git
+git clone git@github.com:Riemann-def/wippass-events.git
 cd eventos-wippass
 ```
 
