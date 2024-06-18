@@ -47,7 +47,7 @@ export default function Home() {
   useEffect(() => {
     const getData = async () => {
       try {
-        const response = await fetch('https://3.88.227.166/info', {
+        const response = await fetch('https://public-api.wippass.com/info', {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',

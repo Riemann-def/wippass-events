@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 
 async function fetchAll() {
-    const response = await fetch('https://3.88.227.166/info', {
+    const response = await fetch('https://public-api.wippass.com/info', {
         method: 'GET',
         headers: {
             'Content-Type': 'application/json',
